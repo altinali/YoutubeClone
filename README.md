@@ -17,8 +17,6 @@ react-player
 tailwind (kurulumu sitesinde)
 Yapılacaklar
 
-# Kaynaklar
-API: https://rapidapi.com/ytjar/api/yt-api
 
 <h2>Ekran Alıntısı</h2>
 
